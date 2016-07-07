@@ -1,13 +1,13 @@
 {
-    "name":"jtthink/echostu",
+    "name":"86kankan/echo",
     "description":"composer project",
     "keywords":["jtthink","echo"],
-    "homepage":"http://www.jtthink.com",
+    "homepage":"http://www.86kankan.com",
     "license":["Apache-2.0","GPL-2.0+"],
     "authors":[
         {
             "name":"echo",
-            "homepage":"http://www.jtthink.com"
+            "homepage":"http://www.86kankan.com"
         }
     ],
     "require": {},
