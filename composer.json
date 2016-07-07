@@ -1,7 +1,7 @@
 {
-    "name":"echo/jtthink",
+    "name":"muxiliu/jtthink",
     "description":"composer project",
-    "keywords":["jtthink","echo"],
+    "keywords":["jtthink"],
     "homepage":"http://www.jtthink.com",
     "license":["Apache-2.0","GPL-2.0+"],
     "authors":[
