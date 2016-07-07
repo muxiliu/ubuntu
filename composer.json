@@ -1,0 +1,14 @@
+{
+    "name":"echo/jtthink",
+    "description":"composer project",
+    "keywords":["jtthink","echo"],
+    "homepage":"http://www.jtthink.com",
+    "license":["Apache-2.0","GPL-2.0+"],
+    "authors":[
+        {
+            "name":"echo",
+            "homepage":"http://www.jtthink.com"
+        }
+    ],
+    "require": {}
+}
